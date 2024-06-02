@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=no-invoker
+Icon=org.zdoom.gzdoom
+Exec=/usr/bin/org.zdoom.gzdoom -gles2_renderer
+Name=GZDoom
+Keywords=doom;first;person;shooter;dark;singleplayer;multiplayer;
+Comment=GZDoom is a Doom GPL source port for AuroraOS
+
+X-Desktop-File-Install-Version=0.26
+
+[X-Application]
+Permissions=UserDirs;RemovableMedia;Internet;Audio
+OrganizationName=org.zdoom
+ApplicationName=gzdoom
+
+[X-Aurora-Application]
+IconMode=Crop
